@@ -32,7 +32,6 @@ int main() {
     }
   }
   printf("Edges:%d", z);
-
   for (i = 0; i < n; i++) {
     int x = 0;
     for (j = 0; j < n; j++) {
