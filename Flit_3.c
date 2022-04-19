@@ -16,7 +16,6 @@ int main() {
     }
   }
   fclose(matrix);
-
   for (i = 0; i < n; i++) {
     for (j = 0; j < n; j++) {
       if (A[i][j] != 0 && i != j) {
